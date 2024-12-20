@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: y1pp1hgc1-go-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/y1pp1hgc1-go
